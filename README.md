@@ -1,1 +1,1 @@
-MongoDB Database and Query Learning Notes and Exercise.
+Database and Query Learning Notes and Exercise.
